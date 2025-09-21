@@ -1,12 +1,12 @@
 {
-  "name": "project-pulse",
-  "version": "1.0.0",
+  "name": "project-pulse starter",
+  "ver": "1.0.0",
   "description": "AI powered dashboard",
   "main": "src/main.jsx",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview",
+    "serve": "vite preview"
 
   },
   "dependencies": {
