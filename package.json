@@ -1,5 +1,5 @@
 {
-  "name": "project-pulse starter",
+  "name": "project-pulse",
   "ver": "1.0.0",
   "description": "AI powered dashboard",
   "main": "src/main.jsx",
